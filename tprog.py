@@ -21,3 +21,4 @@ def калькулятор():
           print(a, "/", b, "=", int(a) / int(b))
 
 калькулятор()
+print ('hello world!')
