@@ -1,0 +1,9 @@
+node_modules/
+vendor/
+*.o
+*.a
+*.so
+*.dll
+*.exe
+config.ini
+*.conf
