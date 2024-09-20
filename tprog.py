@@ -1,2 +1,5 @@
-s=input()
-print(s)
+print('Введите первое число:')
+a=input()
+print('Введите второе число:')
+b=input()
+print('Сумма: ', int(a)+int(b))
